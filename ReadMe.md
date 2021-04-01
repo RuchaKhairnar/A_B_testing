@@ -1,6 +1,6 @@
 
 
-A mobile game cookie cats has launched two versions of its game, gate_30 and gate_40, and wants look at the difference in user behaviour after a day and after a week in both of the games so as to to decide which version of the game appeals to the user base more and makes the user stay for longer time. 
+A mobile game 'cookie cats' has launched two versions of its game, gate_30 and gate_40, and wants look at the difference in user behaviour after a day and after a week in both of the games so as to to decide which version of the game appeals to the user base more and makes the user stay for longer time. 
 
 I have used two proportion Z-test to calculate the difference in proportions for the two versions.
 
